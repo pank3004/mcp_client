@@ -1,7 +1,2 @@
 .env
-.venv
-__pycache__
-.python-version
-pyproject.toml
-README.md
-uv.lock
+

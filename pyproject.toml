@@ -1,0 +1,11 @@
+[project]
+name = "mcp-client"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastmcp>=2.14.3",
+    "langchain-cerebras>=0.8.2",
+    "langchain-mcp-adapters>=0.2.1",
+]
